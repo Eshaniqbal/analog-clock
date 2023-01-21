@@ -1,1 +1,1 @@
-view project review at https://medium.com/@hackone632/making-of-stylish-analog-clock-using-html-css-js-afe3e35ddb40
+review project at https://medium.com/@hackone632/making-of-stylish-analog-clock-using-html-css-js-afe3e35ddb40
